@@ -1,0 +1,294 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.738129,
+                    30.287708,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Norman Hackerman Building (NHB)",
+                "styleUrl": "#style13",
+                "styleHash": "-745b6a26",
+                "description": "<span style=\"line-height:115%\"><font size=\"2\" face=\"arial, sans-serif\">The\nNorman Hackerman Building is not only known for its cool and contemporary\narchitecture but also for its napping spots. On the inside, there are couches\non the first, second, and third floors for napping. On the third floor, you can\neven nap in the balcony area before 4 PM. The outer NHB patio is well known for\nits cool metal seating areas that can be moved into make-shift beds. These are\nespecially comfortable on a sunny day when the shade has kept the seats cool!&nbsp;</font></span><div><span style=\"line-height:17.633333206176758px\"><font size=\"2\" face=\"arial, sans-serif\"><br></font></span></div><div><font size=\"2\" face=\"arial, sans-serif\"><span style=\"line-height:17.633333206176758px\">Hours:&nbsp;</span><span style=\"line-height:115%\">All week: 6:30 AM – 10 PM</span></font></div><div style=\"font-family:arial\"><span style=\"font-size:15px;line-height:17.633333206176758px\"><br></span><div style=\"font-size:10pt\"><img src=\"http://i.imgur.com/TYgYo0Y.jpg\" style=\"width:244px\"><div><br><img src=\"http://i.imgur.com/ZtfEQXX.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div><div><img src=\"http://i.imgur.com/Xh5BpIT.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div><div><img src=\"http://i.imgur.com/qQxcD7e.jpg\" style=\"width:244px\"></div></div></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.729248,
+                    30.285957,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lyndon B. Johnson Library (LBJ)",
+                "styleUrl": "#style7",
+                "styleHash": "-212c66b1",
+                "description": "<span style=\"line-height:115%\"><font size=\"2\" face=\"arial, sans-serif\">If\nyou’re over on the eastern edges of the Forty Acres, we have got a nap spot for\nyou! The library is a great nap spot because of the low chatter level and the\nquaint presidential furniture. However, the lawn and corridor outside the\nlibrary are great nap spots as well. Because the library is on the edges of the\ncampus, you can expect to be left alone to your devices while you slumber for a\nrefreshing 20 minutes!</font></span><div><span style=\"line-height:17.633333206176758px\"><font size=\"2\" face=\"arial, sans-serif\"><br></font></span></div><div><font size=\"2\" face=\"arial, sans-serif\"><span style=\"line-height:17.633333206176758px\">Hours:&nbsp;</span><span style=\"line-height:115%\">Mon-Fri:</span><span style=\"line-height:115%\">&nbsp; </span><span style=\"line-height:115%\">9 AM – 5 PM</span></font></div><div style=\"font-family:arial\"><span style=\"font-size:15px;line-height:17.633333206176758px\"><br></span><div style=\"font-size:10pt\"><span style=\"font-size:11.5pt;line-height:115%\"></span><img src=\"http://i.imgur.com/dRODeqI.jpg\" style=\"width:244px\"><div><br><div><img src=\"http://i.imgur.com/CGaY4Q3.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div></div></div></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.738205,
+                    30.282806,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Perry Castaneda Library (PCL)",
+                "styleUrl": "#style11",
+                "styleHash": "-6ff89a64",
+                "description": "<span style=\"line-height:115%\"><font size=\"2\" face=\"arial, sans-serif\">“Shhh…no\ntalking in the library” might have been annoying to hear back in grade school,\nbut it’s just what you need to close your eyes for twenty minutes. The PCL is\nknown for its comfort, silence, and space on all of its floors. A tidbit about\nthe building: the floors get quieter as you go up. Even if the comfortable\ncouches are taken on all floors (which is unlikely), there are spots between\nthe stacks that are also amazing nap spots. As one student said, the PCL is\noptimal for when you want to “get your work done and get your sleep on!”</font></span><div><span style=\"line-height:115%\"><font size=\"2\" face=\"arial, sans-serif\"><br></font></span></div><div><font size=\"2\" face=\"arial, sans-serif\"><span style=\"line-height:115%\">Hours:&nbsp;</span><span style=\"line-height:115%\">Mon-Thur : 7 AM – 2 AM<b> ||</b> Fri: 7 AM – 11 PM <b>||</b>Sat: 9 AM – 11 PM <b>||</b> Sun: 12 PM – 2 AM</span></font><span style=\"line-height:115%\"><font size=\"2\" face=\"arial, sans-serif\"><br></font>\n<br>\n</span></div><div><img src=\"http://i.imgur.com/7maHhRU.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div><div><img src=\"http://i.imgur.com/fYQJRGY.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div><div><img src=\"http://i.imgur.com/XVfZgY8.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div><div><img src=\"http://i.imgur.com/66KR7oW.jpg\" style=\"width:244px\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.740387,
+                    30.291451,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Almetris Duren Hall (ADH)",
+                "styleUrl": "#style10",
+                "styleHash": "1238cd7d",
+                "description": "<font size=\"2\" face=\"arial, sans-serif\"><span style=\"line-height:115%\">&nbsp;“How you Duren?” is probably the only thing\nyou know about the Duren residence hall, but what you might not have known is\nthat the building is home to comfortable couches. The mahogany furniture gives\nthe nap spot an incredible ambience that is hard to compete with! For any\nnon-resident seeking refuge in Duren can find a spot in the main hallway that\nis home to huge comfortable couches and study tables. Because it is such a low\nprofile residence hall, the noise level is usually at a minimum, so nap away!</span><span style=\"line-height:115%\">&nbsp;</span></font><div><span style=\"line-height:115%\"><font size=\"2\" face=\"arial, sans-serif\"><br></font></span></div><div><font size=\"2\" face=\"arial, sans-serif\"><span style=\"line-height:115%\">Hours:&nbsp;</span><span style=\"line-height:115%\">Mon-Sun: 6:30 AM – 11 PM ||\nResidents only after 11 PM</span></font></div><div style=\"font-family:arial;font-size:10pt\"><span style=\"font-size:11.5pt;line-height:115%\"><br>\n</span><img src=\"http://i.imgur.com/7oc06Ao.jpg\" style=\"width:244px\"></div><div style=\"font-family:arial;font-size:10pt\"><br>&nbsp;</div><div style=\"font-family:arial;font-size:10pt\"><img src=\"http://i.imgur.com/T0ZhZvI.jpg\" style=\"width:244px\"></div><div style=\"font-family:arial;font-size:10pt\"><br>&nbsp;</div><div style=\"font-family:arial;font-size:10pt\"><br>&nbsp;</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.734406,
+                    30.282635,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "San Jacinto Residence Hall (SJH)",
+                "styleUrl": "#style6",
+                "styleHash": "61050130",
+                "description": "<div><div><span style=\"line-height:115%\"><font size=\"2\" face=\"arial, sans-serif\">While\nit is a residence hall with primary access to its residents, the San Jacinto\nhall is open to public from 6:30 AM to 11PM. There are areas for nonresidents to\ngrab a quick nap in the couch lounge areas!&nbsp;\nAdditionally, one student noted that the “courtyard is relaxing when\nit’s nice outside”.&nbsp;</font></span></div><div><span style=\"line-height:115%\"><font size=\"2\" face=\"arial, sans-serif\"><br></font></span></div><div><font size=\"2\" face=\"arial, sans-serif\"><span style=\"line-height:115%\">Hours:&nbsp;</span><span style=\"line-height:115%\">Mon-Sun: 6:30 AM – 11 PM ||\nResidents only after 11 PM</span></font></div><div style=\"font-family:arial;font-size:10pt\"><span style=\"font-size:11.5pt;line-height:115%\"><br></span></div><div style=\"font-family:arial;font-size:10pt\"><img src=\"http://i.imgur.com/hMPxlmf.jpg\" style=\"font-size:10pt;width:244px\"></div></div><div style=\"font-family:arial;font-size:10pt\"><br>&nbsp;</div><div style=\"font-family:arial;font-size:10pt\"><img src=\"http://i.imgur.com/xcqCmuV.jpg\" style=\"width:244px\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.741196,
+                    30.28648,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Union Building (UNB)",
+                "styleUrl": "#style12",
+                "styleHash": "dd5fdbb",
+                "description": "<span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\">Dark\nand cozy, the Union is the nap spot for you if you want a place that is not\nfrequented by students. There are several areas that are sure to give you the\nambience that you want; the Governor’s Room has comfortable couches that will\nkeep you warm while the Sinclair Suite is more open and has inviting sofa\nchairs, both of which are located on the 3<sup>rd</sup> floor of the Union. It\nalso has plenty of fast food areas on the first floor that can be a moderately\nhealthy source of a quick snack before heading off to class! According to one\nLonghorn, the Union “reminds me of my Grandma’s house.”&nbsp;</font></span><div><span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\"><br></font></span></div><div><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:115%\">Hours:&nbsp;</span><span style=\"line-height:115%\">Mon – Fri: 7 AM – 3 AM ||\nSat: 10 AM – 3 AM || Sun: 12 PM – 3 AM</span></font></div><div><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:115%\"><br></span></font></div><div><img src=\"http://i.imgur.com/0PkceV7.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div><div><img src=\"http://i.imgur.com/J459mUN.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div><div><img src=\"http://i.imgur.com/URdiWfR.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div><div><img src=\"http://i.imgur.com/rGkpMfN.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div><div><img src=\"http://i.imgur.com/PZFn81i.jpg\" style=\"width:244px\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.738754,
+                    30.288137,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pharmacy Building (PHR)",
+                "styleUrl": "#style9",
+                "styleHash": "-258f3673",
+                "description": "<span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\">Unless you were a pharmacy student, you would not normally have a reason to be in this building. However, the Pharmacy building\nalso has moderately comfortable benches that could be great to rest your eyes\nfor a brief 20 minutes. While the old pharmacy building is not particularly\nriddled with cushioned benches, the new building, which is located adjacent to\nthe old one, has study areas and cushioned benches in all the hallways. For\nthose who need silence while they sleep, these buildings have a slightly higher\nlevel of chatter.&nbsp;</font></span><div><span style=\"line-height:17.633333206176758px\"><font face=\"arial, sans-serif\" size=\"2\"><br></font></span></div><div><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:17.633333206176758px\">Hours:&nbsp;</span><span style=\"line-height:115%\">All week: 6:30 AM – 10 PM</span></font><span style=\"font-family:arial;font-size:15px;line-height:17.633333206176758px\"><br></span><div style=\"font-family:arial;font-size:10pt\"><span style=\"font-size:15px;line-height:17.633333206176758px\"><br></span><div style=\"font-size:10pt\"><img src=\"http://i.imgur.com/CFYM3VY.jpg\" style=\"width:244px\"></div><div style=\"font-size:10pt\"><br>&nbsp;</div><div style=\"font-size:10pt\"><img src=\"http://i.imgur.com/37zOlZZ.jpg\" style=\"width:244px\"></div><div style=\"font-size:10pt\"><br>&nbsp;</div><div style=\"font-size:10pt\"><img src=\"http://i.imgur.com/T8sfy3S.jpg\" style=\"width:244px\"></div><div style=\"font-size:10pt\"><br>&nbsp;</div><div style=\"font-size:10pt\"><img src=\"http://i.imgur.com/GATyI5H.jpg\" style=\"width:244px\"></div><div style=\"font-size:10pt\"><br>&nbsp;</div><div style=\"font-size:10pt\"><img src=\"http://i.imgur.com/KqCXXmg.jpg\" style=\"width:244px\"></div><div style=\"font-size:10pt\"><br>&nbsp;</div><div style=\"font-size:10pt\"><img src=\"http://i.imgur.com/p8KnDYk.jpg\" style=\"width:244px\"></div></div></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.739578,
+                    30.284437,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "South Mall Lawn",
+                "styleUrl": "#style4",
+                "styleHash": "6567d0f2",
+                "description": "<span style=\"font-family:arial;font-size:10pt;line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\">If the fact that you will be napping in a lush lawn in\nfront of the awe-inspiring Tower does not convince you to take a nap here, it’s\nhard to say what will. The front lawn is an incredible spot to lie down and\nclose your eyes amidst the beautiful shady trees. Make sure to set your alarm\nbecause the 20 minute nap might just turn into a long slumber because it’s so\ncomfortable on the grass. Remember to wear sunscreen to avoid any sunburn!&nbsp;</font></span><div style=\"font-family:arial;font-size:10pt\"><span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\"><br></font></span></div><div style=\"font-family:arial;font-size:10pt\"><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:115%\">Hours:&nbsp;</span><span style=\"line-height:115%\">Open 24/7</span></font></div><div><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:14.949999809265137px\"><br></span></font></div><div><img src=\"http://i.imgur.com/2eeYAg7.jpg\" style=\"width:244px\"><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:14.949999809265137px\"><br></span></font>\n<br>\n</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.738503,
+                    30.289997,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Students Services Building (SSB)",
+                "styleUrl": "#style1",
+                "styleHash": "-1403f76b",
+                "description": "<font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:115%\">As the name suggests, the SSB is there to serve\nstudents, and the newly furnished floors will do just that. There are warm and\ncomfortable sofas on the first floor and second floor by the escalators that\nare long enough for you to stretch your legs and count a few sheep! While it is\nnot a silent building, the area is moderately quiet to allow you to take a nap.\nThe Forty Acres Pharmacy on the first floor can be a great source of a healthy\nsnack after your nap. Additionally, take the elevator to the 5<sup>th</sup>\nfloor to Counseling and Mental Health Center’s </span><span style=\"line-height:115%\"><a href=\"http://cmhc.utexas.edu/mindbodylab.html\" target=\"_blank\"><span style=\"line-height:115%\">Mind and\nBody Lab</span></a></span><span style=\"line-height:115%\"> where you can rest in a cool, dark, and serene room\nfor 30 minutes.&nbsp;</span></font><div><span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\"><br></font></span></div><div><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:115%\">Hours:&nbsp;</span><span style=\"line-height:115%\">Mon-Fri: 8 AM – 6 PM || Sat\n– Sun: Closed</span></font></div><div><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:115%\"><br></span></font></div><div><img src=\"http://i.imgur.com/bIWFWU7.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div><div><img src=\"http://i.imgur.com/DTsonwK.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div><div><img src=\"http://i.imgur.com/Heaf3Nj.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div><div><img src=\"http://i.imgur.com/3xZi5EB.jpg\" style=\"width:244px\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.734535,
+                    30.285761,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "F. Loren Winship Drama Building (WIN)",
+                "styleUrl": "#style17",
+                "styleHash": "-7d2109aa",
+                "description": "<span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\">Lights! Camera! Sleep! Follow the director’s cue and\nhead on over to WIN for a relaxing nap. Not only is it home to state-of-the-art\ntheaters, but the drama building also has quiet corridors and lounge areas that\nare great for some well-deserved eye-resting.&nbsp;</font></span><div><span style=\"line-height:17.633333206176758px\"><font face=\"arial, sans-serif\" size=\"2\"><br></font></span></div><div><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:17.633333206176758px\">Hours:&nbsp;</span><span style=\"line-height:115%\">All week: 7 AM – 10 PM</span></font></div><div style=\"font-family:arial\"><span style=\"font-size:15px;line-height:17.633333206176758px\"><br></span><div style=\"font-size:10pt\"><img src=\"http://i.imgur.com/UN9LUvY.jpg\" style=\"width:244px\"></div></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.739784,
+                    30.290403,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kinsolving Residence Hall (KIN)",
+                "styleUrl": "#style15",
+                "styleHash": "-78be39e8",
+                "description": "<span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\">An all-girl residence hall, Kinsolving has North and\nSouth lounges on the first floor that are open to public until 11PM. The North\nLounge is an incredible spot for napping, while the South lounge is primarily\nused for group and individual studying. The North lounge is a moderately quiet\natmosphere for a quick refreshing nap! Additionally, there’s a Kin’s Market and\nKin’s Dining Hall to satiate your afternoon munchies!</font></span><div><span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\"><br></font></span></div><div><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:115%\">Hours:&nbsp;</span><span style=\"line-height:115%\">Mon-Sun: 6:30 AM – 11 PM ||\nResidents only after 11 PM</span></font></div><div><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:115%\"><br></span></font></div><div><img src=\"http://i.imgur.com/AQOlbdw.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div><div><img src=\"http://i.imgur.com/RUaUvY5.jpg\" style=\"width:244px\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.737617,
+                    30.28673,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Robert A. Welch Hall (WEL)",
+                "styleUrl": "#style16",
+                "styleHash": "5105e37",
+                "description": "<span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\">The ever-expanding Welch building has an area in every\ntwisted corner and hallway for a place to nap, be it the long hallways with\ncushioned benches or the Mallet Library on the first floor. The hallways\nnormally have crowds in between class periods, but it could be the place for\nyou if you like a little white noise to help you go to sleep. The Mallet\nLibrary is blissfully silent if that is the sort of environment you require.\nThe building’s central location on campus is also a great asset as you’ll be\nable to hurry off to your next class after the nap!&nbsp;</font></span><div><span style=\"line-height:17.633333206176758px\"><font face=\"arial, sans-serif\" size=\"2\"><br></font></span></div><div><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:17.633333206176758px\">Hours:&nbsp;</span><span style=\"line-height:115%\">All week: 6:30 AM – 10 PM</span></font></div><div style=\"font-family:arial\"><span style=\"font-size:15px;line-height:17.633333206176758px\"><br></span><div style=\"font-size:10pt\"><img src=\"http://i.imgur.com/DjYTb7p.jpg\" style=\"width:244px\"><div><br><div><img src=\"http://i.imgur.com/A8YFit2.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div><div><img src=\"http://i.imgur.com/FNUh66z.jpg\" style=\"width:244px\"></div></div><div><br>&nbsp;</div></div></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.736557,
+                    30.288992,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Robert Lee Moore Hall (RLM)",
+                "styleUrl": "#style14",
+                "styleHash": "9732df9",
+                "description": "<div><div><span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\">Be it the Kuehne Physics Mathematics Astronomy library\non the 4<sup>th</sup> floor or the several lounge areas on all floors, the RLM\nhas reasonably good study areas that can be fashioned into nap spots at a\nmoment’s notice. The lawn outside of the RLM is also an excellent nap spot,\nweather permitting. RLM also has its own coffee stand on the 4<sup>th</sup>\nfloor in case you need a snack before or after the nap. A word of advice about\nthe building: the elevators do not go to the 5<sup>th</sup>, 6<sup>th</sup>,\nand 7<sup>th</sup> floors.</font></span></div></div><div><span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\"><br></font></span></div><div><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:115%\">Hours:&nbsp;</span><span style=\"line-height:115%\">All Week: 6:30 AM – 10 PM</span></font></div><div style=\"font-size:10pt;font-family:arial\"><span style=\"font-size:11.5pt;line-height:115%\"><br></span></div><div style=\"font-size:10pt;font-family:arial\"><img src=\"http://i.imgur.com/kchCYWo.jpg\" style=\"width:244px\"><div><br><div><img src=\"http://i.imgur.com/L2zq0Qa.jpg\" style=\"width:244px\"></div><div><br>&nbsp;</div><div><img src=\"http://i.imgur.com/m79NusK.jpg\" style=\"width:244px\"></div></div></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.73616,
+                    30.284845,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Student Activity Center (SAC)",
+                "styleUrl": "#style5",
+                "styleHash": "-1cc996ef",
+                "description": "<span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\">A great spot to catch some of those coveted Zzz’s, the\nStudent Activity Center has lounge areas on both the first and second floor\nthat are moderately quiet and have a running fireplace. One student also noted\nthat the “cool wooden upstairs with pillows” is an incredibly comfortable area\nto schedule in a quick nap before your next class!</font></span><div><span style=\"line-height:17.633333206176758px\"><font face=\"arial, sans-serif\" size=\"2\"><br></font></span></div><div><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:17.633333206176758px\">Hours:&nbsp;</span><span style=\"line-height:115%\">Mon – Fri: 7 AM – 3 AM ||\nSat: 10 AM – 3 AM || Sun: 12 PM – 3 AM</span></font></div><div style=\"font-size:10pt;font-family:arial\"><span style=\"font-size:15px;line-height:17.633333206176758px\"><br></span><div style=\"font-size:10pt\"><img src=\"http://i.imgur.com/RJ5BHAh.jpg\" style=\"width:244px\"></div><div style=\"font-size:10pt\"><br>&nbsp;</div><div style=\"font-size:10pt\"><img src=\"http://i.imgur.com/UR9KDtr.jpg\" style=\"width:244px\"></div><div style=\"font-size:10pt\"><br>&nbsp;</div><div style=\"font-size:10pt\"><img src=\"http://i.imgur.com/pvFPweW.jpg\" style=\"width:244px\"></div></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.73661,
+                    30.283918,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gregory Gymnasium (GRE)",
+                "styleUrl": "#style2",
+                "styleHash": "69caa0b4",
+                "description": "<span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\">You may be asking yourself, how did Gregory Gymnasium\nmake this list? Why would someone nap in a gym? The Gregory Gymnasium in\nparticular has several cushions benches and lounge areas throughout the\nbuilding that can be a great spot for a quick nap! Additionally, you can spend\nanother 30 minutes after the nap working out, which will only keep you more\nactive for the remainder of your day.&nbsp;</font></span><div><span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\"><br></font></span></div><div><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:115%\">Hours:&nbsp;</span><span style=\"line-height:115%\">Mon – Thur: 6 AM – 1 AM ||\nFri: 6 AM – 10 PM || Sat: 8 AM – 10 PM || Sun: 10 AM – 1 AM</span></font></div><span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\">&nbsp;</font><br></span><div><img src=\"http://i.imgur.com/8xQNGI6.jpg\" style=\"width:244px\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.740448,
+                    30.286327,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Peter Flawn Academic Center (FAC) ",
+                "styleUrl": "#style3",
+                "styleHash": "-1866c72d",
+                "description": "<span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\">The FAC is most known for its group study areas;\nhowever, there are still areas on the first floor that are good spots for\nnapping. Bring ear plugs if complete silence is a must for you since the noise\nlevel is usually at a quiet chatter level.&nbsp;\nWith a working fireplace, the FAC can be a warm area on a particularly\ncold day.&nbsp;</font></span><div><span style=\"line-height:115%\"><font face=\"arial, sans-serif\" size=\"2\"><br></font></span></div><div><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:115%\">Hours:&nbsp;</span><span style=\"line-height:115%\">Mon – Thur: 6 AM – 12 M ||\nFri: 6 AM – 10 PM || Sat – Sun: 10 AM – 10 PM</span></font></div><div><font face=\"arial, sans-serif\" size=\"2\"><span style=\"line-height:115%\"><br></span></font></div><div><img src=\"http://i.imgur.com/Gm6vXej.jpg\" style=\"width:244px\"></div><span style=\"font-size:10pt;font-family:Calibri, sans-serif;line-height:115%;color:rgb(84, 141, 212)\">&nbsp;<br></span><div><img src=\"http://i.imgur.com/YJdJFm3.jpg\" style=\"width:244px\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.736687,
+                    30.282686,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jester East/ West Residence Halls (JES) ",
+                "styleUrl": "#style8",
+                "styleHash": "5ca2316e",
+                "description": "<div dir=\"ltr\"><font face=\"arial, sans-serif\" size=\"2\">While both Jester East and West are primarily residence&nbsp;halls, there are a few areas within the buildings that are nap friendly with&nbsp;access for non-Jesterians. The Malcolm X lounge on the second floor of Jester&nbsp;East is not only close to J2 dining hall, but it is also a quiet area that is<br>usually used as an individual study area. A quick twenty minute nap in here and<br>you’ll be as good as new for the rest of your day!<img>&nbsp;</font></div><div dir=\"ltr\"><font face=\"arial, sans-serif\" size=\"2\"><br></font></div><div dir=\"ltr\"><font face=\"arial, sans-serif\" size=\"2\">Hours:&nbsp;<span style=\"line-height:115%\">Mon-Sun: 6:30 AM – 11 PM ||\nResidents only after 11 PM</span></font></div><div dir=\"ltr\" style=\"font-size:10pt;font-family:arial\"><br>&nbsp;</div><div dir=\"ltr\" style=\"font-size:10pt;font-family:arial\"><img src=\"http://i.imgur.com/ZR3LK8Q.jpg\" style=\"font-size:10pt;width:244px\"></div><div dir=\"ltr\" style=\"font-size:10pt;font-family:arial\"><br>&nbsp;</div><div dir=\"ltr\" style=\"font-size:10pt;font-family:arial\"><img src=\"http://i.imgur.com/NQtHOGE.jpg\" style=\"font-size:10pt;width:244px\"></div>"
+            }
+        }
+    ]
+}
